@@ -1,0 +1,12 @@
+{
+  "name": "paypol",
+  "version": "1.0.0",
+  "description": "Простой сайт банка PayPol с регистрацией и входом",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
